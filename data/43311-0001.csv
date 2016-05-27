@@ -1,0 +1,67 @@
+GENESIS-Tabelle: 43311-0001
+Elektrizitätserzeugung, Nettowärmeerzeugung,;;;;;
+Brennstoffeinsatz: Deutschland, Jahre, Energieträger;;;;;
+Monatsbericht über die Elektrizitätsversorgung;;;;;
+Deutschland;;;;;
+;;Elektrizitätserzeugung (brutto);Elektrizitätserzeugung (netto);Nettowärmeerzeugung;Brennstoffeinsatz
+;;MWh;MWh;MWh;GJ
+2015;Steinkohlen;116802799;106207512;30636247;1085666523
+2015;Steinkohlenkoks;-;-;-;-
+2015;Steinkohlenbriketts;-;-;-;-
+2015;Kohlenwertstoffe aus Steinkohle;-;-;-;-
+2015;Sonstige Steinkohlen;-;-;-;-
+2015;Rohbraunkohlen;150072555;139371157;9484826;1414792022
+2015;Hartbraunkohlen;.;.;.;.
+2015;Braunkohlenbriketts;.;.;.;1933991
+2015;Braunkohlenkoks;.;.;.;.
+2015;Wirbelschichtkohle;.;.;.;.
+2015;Staub- und Trockenkohle;307569;280996;482279;4233823
+2015;Sonstige Braunkohlen;-;-;-;-
+2015;Dieselkraftstoff;516;512;.;4979
+2015;Heizöl, leicht;600592;540851;245458;7479438
+2015;Heizöl, schwer;396993;362717;113525;4208890
+2015;Flüssiggas;.;.;.;.
+2015;Raffineriegas;-;-;-;-
+2015;Petrolkoks;.;.;.;.
+2015;Sonstige Mineralölprodukte;.;.;.;.
+2015;Erdgas, Erdölgas;31276477;30123230;39833970;332615271
+2015;Grubengas;.;.;.;.
+2015;Kokereigas;.;.;-;.
+2015;Hochofengas;.;.;.;.
+2015;Sonstige hergestellte Gase;.;.;-;.
+2015;Laufwasser;14674460;14439342;-;-
+2015;Speicherwasser;567793;562092;-;-
+2015;Pumpspeicherwasser;-;-;-;-
+2015;Pumpspeicher mit natürlichem Zufluss;466343;446544;-;-
+2015;Pumpspeicher ohne natürlichen Zufluss;5921283;5798667;-;-
+2015;Windkraft;-;-;-;-
+2015;Photovoltaik;-;-;-;-
+2015;Geothermie;134121;91531;.;-
+2015;Solarthermie;-;-;-;-
+2015;Feste biogene Stoffe;4867912;4376182;5153261;77699213
+2015;Flüssige biogene Stoffe;.;.;.;.
+2015;Biogas;1707025;1656879;1708636;16504082
+2015;Klärgas;42343;39870;61661;538137
+2015;Deponiegas;86314;83699;52199;893121
+2015;Sonstige erneuerbare Energien;-;-;-;3674234
+2015;Klärschlamm;160554;145956;32415;1596045
+2015;Abfall (Hausmüll, Industrie);-;-;-;-
+2015;Abfall (Industrie);1054020;822491;1842178;21768933
+2015;Abfall (Hausmüll, Siedlungsabfälle);11020301;8678620;14494232;204670819
+2015;Kernenergie;91786311;86765005;-;-
+2015;Wärme;566358;535377;1795356;11959498
+2015;Sonstige Energieträger;33485;31972;96361;505255
+2015;Insgesamt;434397435;403042069;107290072;3207915120
+_____
+Die Tabelle enthält nur die Elektrizitäts- und
+Wärmeerzeugung der Stromerzeugungsanlagen für die
+allgemeine Versorgung.
+
+Elektrizitätserzeugung, Brennstoffeinsatz:
+Einschließlich Verbrauch für Zünd- und Stützfeuerung.
+
+MWh = Megawattstunden
+GJ  = Gigajoule
+_____
+(C)opyright Statistisches Bundesamt, Wiesbaden 2016
+Stand: 27.05.2016 - 13:38:23

@@ -1,0 +1,24 @@
+---
+title: "Energieerzeugung in Deutschland"
+author: "Aleksei Neverov"
+date: '27 мая 2016 г '
+output: 
+      html_document:
+            keep_md: yes
+---
+
+## Begriefe
+
+**Nettowärmeerzeugung **
+
+Die Nettowärmeerzeugung ist die von einem Heizkraftwerk an ein Netz oder einen Produktionsprozess abgegebene und gemessene Wärme. Sie setzt sich zusammen aus der Enthalpie des Vorlaufes abzüglich der Enthalpien des Rücklaufes und des Zusatzwassers. Damit wird indirekt die über die Antriebsenergie der Fernwärme-Umwälzpumpen zugeführte Energie miterfasst.
+
+**Elektrizitätserzeugung (brutto)**
+
+Es wird die Bruttoerzeugung (ab Generator) einschließlichdes Eigenverbrauchs der Stromerzeugungsanlage erfasst.
+
+
+## Links
+
+1. [Das Statistische Bundesamt Deutschlands](https://www.destatis.de/DE/Startseite.html)
+2. [https://www.govdata.de](https://www.govdata.de)

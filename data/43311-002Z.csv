@@ -1,0 +1,36 @@
+GENESIS-Tabelle: Temporär
+Elektrizitätsversorgung: Elektrizitätserzeugung in den;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Kraftwerken der allgemeinen Versorgung, Sachsen, Jahre;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Monatsbericht über die Elektrizitätsversorgung;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Bundesland: Freistaat Sachsen;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr;Berichtsjahr
+;;;1991;1992;1993;1994;1995;1996;1997;1998;1999;2000;2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;2011;2012;2013;2014;2015
+Bruttostromerzeugung;Insgesamt;Mill. kWh;31437;31192;32315;31681;34118;31954;28829;17168;16624;26401;32945;33125;35312;34370;33113;34402;33687;32050;33380;34001;33022;32717;37858;37340;36056
+Bruttostromerzeugung;  Wärmekraft;Mill. kWh;30546;30162;31280;30620;32986;30930;27915;16432;15866;25661;32236;32382;34121;32978;31587;32752;32523;30961;32114;32356;31676;31064;36143;35636;34347
+Bruttostromerzeugung;    Braunkohlen 1);Mill. kWh;30544;30162;31233;30433;32193;28102;25159;13608;12586;22576;29209;29469;31035;30019;28481;29782;29822;28212;29412;29496;28891;28514;33309;33070;31856
+Bruttostromerzeugung;    Heizöl;Mill. kWh;2;0;2;3;7;58;48;30;112;25;41;23;30;34;34;51;34;41;31;39;40;46;63;55;53
+Bruttostromerzeugung;    Erdgas;Mill. kWh;-;-;45;182;786;2770;2708;2786;2821;2764;2758;2645;2803;2679;2827;2706;2544;2703;2672;2820;2746;2504;2772;2511;2438
+Bruttostromerzeugung;  Sonstige erneuerbare Energien;Mill. kWh;-;-;-;-;-;-;-;-;-;-;-;11;31;36;155;164;157;194;300;347;388;391;466;563;576
+Bruttostromerzeugung;  Klärschlamm;Mill. kWh;-;-;-;-;-;-;-;-;-;-;-;19;13;30;47;66;68;70;67;66;61;59;61;62;69
+Bruttostromerzeugung;  Lauf- und Speicherwasser;Mill. kWh;27;47;46;63;66;62;36;42;40;31;32;40;23;35;40;30;46;33;32;43;33;30;44;27;36
+Bruttostromerzeugung;  Pumpspeicher;Mill. kWh;864;983;989;998;1066;962;878;694;718;709;677;673;1123;1291;1284;1390;857;765;720;1054;735;1041;1011;918;896
+Bruttostromerzeugung;  Abfall;Mill. kWh;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;36;26;146;136;129;132;133;134;132
+Nettostromerzeugung;Insgesamt;Mill. kWh;28626;28388;29513;28906;31182;29293;26449;15772;15393;24673;31030;31226;33365;32444;31207;32393;31705;30184;31444;32077;31083;30810;35711;35234;34018
+Nettostromerzeugung;  Wärmekraft;Mill. kWh;27796;27427;28543;27905;30115;28320;25577;15062;14655;23952;30341;30509;32204;31086;29722;30785;30582;29137;30259;30507;29819;29244;34081;33618;32398
+Nettostromerzeugung;    Braunkohlen 1);Mill. kWh;27794;27427;28501;27731;29366;25613;22934;12357;11519;20993;27441;27718;29240;28247;26741;27927;27981;26481;27640;27738;27115;26773;31325;31131;29979
+Nettostromerzeugung;    Heizöl;Mill. kWh;2;0;1;2;6;54;45;28;105;24;39;21;28;31;32;49;32;39;29;37;37;43;60;52;50
+Nettostromerzeugung;    Erdgas;Mill. kWh;-;-;41;170;743;2653;2598;2673;2710;2664;2657;2549;2707;2586;2728;2615;2459;2614;2590;2732;2667;2427;2696;2436;2369
+Nettostromerzeugung;  Sonstige erneuerbare Energien;Mill. kWh;-;-;-;-;-;-;-;-;-;-;-;11;30;35;145;153;147;181;269;315;349;353;423;514;529
+Nettostromerzeugung;  Klärschlamm;Mill. kWh;-;-;-;-;-;-;-;-;-;-;-;18;12;28;45;62;64;66;63;62;57;56;57;58;65
+Nettostromerzeugung;  Lauf- und Speicherwasser;Mill. kWh;27;47;46;62;65;61;36;41;39;31;31;40;23;35;40;30;46;33;32;43;33;30;44;27;36
+Nettostromerzeugung;  Pumpspeicher;Mill. kWh;803;914;924;939;1002;912;836;669;698;690;658;648;1096;1260;1255;1363;835;745;696;1035;713;1014;992;901;878
+Nettostromerzeugung;  Abfall;Mill. kWh;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;32;23;125;116;111;113;113;115;112
+_____
+1) Bis 2008 Rohbraunkohle -
+   einschließlich geringe Erzeugung aus Steinkohle in den
+   Jahren 1993 bis 1998
+_____
+(C)opyright Statistisches Landesamt des Freistaates Sachsen 2016 -
+Vervielfältigung und Verbreitung, auch auszugsweise,
+mit Quellenangabe gestattet
+Stand: 27.05.2016 / 13:33:54
