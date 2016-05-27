@@ -22,3 +22,4 @@ Es wird die Bruttoerzeugung (ab Generator) einschließlichdes Eigenverbrauchs de
 
 1. [Das Statistische Bundesamt Deutschlands](https://www.destatis.de/DE/Startseite.html)
 2. [https://www.govdata.de](https://www.govdata.de)
+3. [http://de.statista.com/](http://de.statista.com/)
